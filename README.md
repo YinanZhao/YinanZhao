@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋😄
 
-<!--
-**YinanZhao/YinanZhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### **I am..**
+💯 An Engineering Science student at the University of Toronto with a major in Math, Stats & Finance
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+#### **Experiences:**
+🏢 Incoming Software Engineer Intern @ [Uber](https://www.uber.com/) - Fall 2023
+
+🏢 Software Engineer Intern @ [Roblox](https://www.roblox.com/) - Summer 2023
+
+🏢 Software Engineer Intern @ [Chartmetric](https://chartmetric.com) - Summer 2022 (Full Time) + Fall 2022 (Part Time)
+
+🏢 Software Developer Intern @ [Nuvei](https://nuvei.com) - Summer 2021
+
+## 
+P.S. I love meeting new people 😝 
+
+Feel free to reach out to me via [email](mailto:yinanzhao1015@gmail.com) or [LinkedIn](https://www.linkedin.com/in/yinan-zhao-a3a198168/) to chat ❤️
