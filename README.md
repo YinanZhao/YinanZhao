@@ -6,7 +6,7 @@
 
 ##
 #### **Experiences:**
-🏢 Incoming Software Engineer Intern @ [Uber](https://www.uber.com/) - Fall 2023
+🏢 Software Engineer Intern @ [Uber](https://www.uber.com/) - Fall 2023
 
 🏢 Software Engineer Intern @ [Roblox](https://www.roblox.com/) - Summer 2023
 
