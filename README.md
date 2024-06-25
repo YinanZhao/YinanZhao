@@ -17,4 +17,4 @@
 ## 
 P.S. I love meeting new people 😝 
 
-Feel free to reach out to me via [email](mailto:yinanzhao1015@gmail.com) or [LinkedIn](https://www.linkedin.com/in/yinan-zhao-a3a198168/) to chat ❤️
+Feel free to reach out to me via [email](mailto:yinanzhao1015@gmail.com) or [LinkedIn](https://www.linkedin.com/in/yinan-zhao-a3a198168/) to chat
